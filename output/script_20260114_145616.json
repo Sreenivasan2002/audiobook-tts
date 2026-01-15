@@ -1,0 +1,47 @@
+{
+  "cast": [
+    {
+      "name": "Narrator",
+      "emotion": "neutral",
+      "delivery": "calm"
+    },
+    {
+      "name": "Character1",
+      "emotion": "cheerful",
+      "delivery": "enthusiastic"
+    },
+    {
+      "name": "Character2",
+      "emotion": "curious",
+      "delivery": "friendly"
+    }
+  ],
+  "scenes": [
+    {
+      "scene_id": "scene_01",
+      "timeline": [
+        {
+          "character": "Character1",
+          "line": "Hi!",
+          "emotion": "cheerful",
+          "delivery": "enthusiastic",
+          "SFX": "light background music"
+        },
+        {
+          "character": "Character1",
+          "line": "Hello there!",
+          "emotion": "cheerful",
+          "delivery": "enthusiastic",
+          "SFX": "light background music"
+        },
+        {
+          "character": "Character2",
+          "line": "How are you?",
+          "emotion": "curious",
+          "delivery": "friendly",
+          "SFX": "light background music"
+        }
+      ]
+    }
+  ]
+}

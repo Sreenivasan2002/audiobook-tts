@@ -1,0 +1,77 @@
+{
+  "cast": [
+    {
+      "name": "Narrator",
+      "emotion": "tense",
+      "delivery": "calm and steady"
+    },
+    {
+      "name": "Mira",
+      "emotion": "anxious",
+      "delivery": "breathless and urgent"
+    }
+  ],
+  "scenes": [
+    {
+      "scene_id": "scene_01",
+      "timeline": [
+        {
+          "line": "Mira\u2019s chest tightened.",
+          "SFX": "heartbeat"
+        },
+        {
+          "line": "She turned away and sprinted the last steps.",
+          "SFX": "footsteps on pavement"
+        },
+        {
+          "line": "At the top, the station hallway stretched empty, lights buzzing.",
+          "SFX": "buzzing lights"
+        },
+        {
+          "line": "The rain was louder here, pounding the roof like impatient fingers.",
+          "SFX": "heavy rain"
+        },
+        {
+          "line": "Mira didn\u2019t stop until she burst through the entrance doors into the night air.",
+          "SFX": "doors slamming open"
+        },
+        {
+          "line": "She stumbled into the rain, gasping, the messenger bag heavy against her ribs.",
+          "SFX": "rain splashing"
+        },
+        {
+          "line": "The key\u2019s heat faded slowly, like an ember dying.",
+          "SFX": "soft crackling"
+        },
+        {
+          "line": "Mira looked down at it, drenched, shaking, heart racing.",
+          "SFX": "heartbeat intensifying"
+        },
+        {
+          "line": "For the first time, she noticed the tiny engraving along its side\u2014letters she hadn\u2019t seen before.",
+          "SFX": "soft wind"
+        },
+        {
+          "line": "\"It read: PLATFORM NINE, DOOR ONE.\"",
+          "SFX": "whispering wind"
+        },
+        {
+          "line": "Mira stared at the words until they blurred with the rain.",
+          "SFX": "rain falling"
+        },
+        {
+          "line": "Somewhere behind her, deep in the station, the hum cut off suddenly\u2014like a switch flipped.",
+          "SFX": "sudden silence"
+        },
+        {
+          "line": "The silence that followed felt worse than the noise.",
+          "SFX": "deep silence"
+        },
+        {
+          "line": "Mira tightened her grip on the key and the bag and stepped into the streetlights, knowing she had just crossed into a story that wouldn\u2019t let her go.",
+          "SFX": "soft footsteps on wet ground"
+        }
+      ]
+    }
+  ]
+}

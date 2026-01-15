@@ -1,0 +1,58 @@
+{
+  "cast": [
+    {
+      "name": "Narrator",
+      "emotion": "neutral",
+      "delivery": "calm"
+    },
+    {
+      "name": "Officer",
+      "emotion": "skeptical",
+      "delivery": "curious"
+    },
+    {
+      "name": "Suspect",
+      "emotion": "defiant",
+      "delivery": "confident"
+    }
+  ],
+  "scenes": [
+    {
+      "scene_id": "scene_01",
+      "timeline": [
+        {
+          "time": "0:00",
+          "action": "Narrator introduces the scene.",
+          "SFX": "soft police radio chatter in the background"
+        },
+        {
+          "time": "0:05",
+          "action": "Officer speaks, cocking his head back.",
+          "SFX": "car engine idling"
+        },
+        {
+          "time": "0:10",
+          "action": "Officer glances at the suspect.",
+          "SFX": "seatbelt click"
+        },
+        {
+          "time": "0:15",
+          "action": "Officer questions the suspect.",
+          "delivery": "curious",
+          "dialogue": "So that\u2019s it? That\u2019s a confession then?"
+        },
+        {
+          "time": "0:20",
+          "action": "Suspect raises his arms.",
+          "SFX": "jangling sequins"
+        },
+        {
+          "time": "0:25",
+          "action": "Suspect responds confidently.",
+          "delivery": "confident",
+          "dialogue": "I\u2019m going to start this confession as plainly as I can: if you can think of a better way to rob a wax museum, I am ALL ears."
+        }
+      ]
+    }
+  ]
+}

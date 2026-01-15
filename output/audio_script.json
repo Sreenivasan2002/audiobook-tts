@@ -1,0 +1,312 @@
+{
+  "meta": {
+    "title": "The Copper Key",
+    "chapter_id": "chapter_3",
+    "language": "en",
+    "target_duration_seconds": 300
+  },
+  "cast": [
+    {
+      "speaker_id": "spk_narrator",
+      "name": "Narrator",
+      "type": "narrator",
+      "voice_profile": {
+        "age": "adult",
+        "gender_presentation": "nonbinary",
+        "tone": "neutral",
+        "pace": "medium",
+        "accent": "",
+        "notes": "Calm and descriptive narration."
+      }
+    },
+    {
+      "speaker_id": "spk_mira",
+      "name": "Mira",
+      "type": "character",
+      "voice_profile": {
+        "age": "teen",
+        "gender_presentation": "female",
+        "tone": "serious",
+        "pace": "medium",
+        "accent": "",
+        "notes": "Nervous and curious."
+      }
+    },
+    {
+      "speaker_id": "spk_jonah",
+      "name": "Jonah",
+      "type": "character",
+      "voice_profile": {
+        "age": "teen",
+        "gender_presentation": "male",
+        "tone": "serious",
+        "pace": "medium",
+        "accent": "",
+        "notes": "Calm but urgent."
+      }
+    }
+  ],
+  "scenes": [
+    {
+      "scene_id": "scene_01",
+      "setting": "Platform Nine at a train station, late at night.",
+      "ambience": {
+        "description": "Rain falling, distant sounds of the station.",
+        "bgm_style": "",
+        "loop": false
+      },
+      "timeline": [
+        {
+          "t": 0,
+          "event_type": "line",
+          "speaker_id": "spk_narrator",
+          "text": "The rain started as a polite tapping, then turned into a steady drumming that made the streetlights blur.",
+          "emotion": "neutral",
+          "delivery": {
+            "pace": "medium",
+            "volume": "normal",
+            "pause_after_ms": 500
+          }
+        },
+        {
+          "t": 5,
+          "event_type": "line",
+          "speaker_id": "spk_mira",
+          "text": "Platform Nine would be empty at this hour—empty enough for a quick mistake and a quick exit.",
+          "emotion": "serious",
+          "delivery": {
+            "pace": "medium",
+            "volume": "normal",
+            "pause_after_ms": 500
+          }
+        },
+        {
+          "t": 10,
+          "event_type": "sfx",
+          "speaker_id": "",
+          "text": "",
+          "emotion": "",
+          "sfx": {
+            "name": "rain",
+            "description": "Rain falling steadily.",
+            "suggested_asset": "rain_sound.mp3"
+          }
+        },
+        {
+          "t": 15,
+          "event_type": "line",
+          "speaker_id": "spk_narrator",
+          "text": "Mira stepped inside. Warmth, stale and metallic, wrapped around her.",
+          "emotion": "neutral",
+          "delivery": {
+            "pace": "medium",
+            "volume": "normal",
+            "pause_after_ms": 500
+          }
+        },
+        {
+          "t": 20,
+          "event_type": "line",
+          "speaker_id": "spk_mira",
+          "text": "I haven’t told anyone about the letter—the one that said: BRING THE KEY. COME ALONE.",
+          "emotion": "serious",
+          "delivery": {
+            "pace": "medium",
+            "volume": "normal",
+            "pause_after_ms": 500
+          }
+        },
+        {
+          "t": 25,
+          "event_type": "line",
+          "speaker_id": "spk_jonah",
+          "text": "You’re late.",
+          "emotion": "neutral",
+          "delivery": {
+            "pace": "medium",
+            "volume": "normal",
+            "pause_after_ms": 500
+          }
+        },
+        {
+          "t": 30,
+          "event_type": "line",
+          "speaker_id": "spk_mira",
+          "text": "Do I know you?",
+          "emotion": "surprised",
+          "delivery": {
+            "pace": "medium",
+            "volume": "normal",
+            "pause_after_ms": 500
+          }
+        },
+        {
+          "t": 35,
+          "event_type": "line",
+          "speaker_id": "spk_jonah",
+          "text": "Not yet.",
+          "emotion": "neutral",
+          "delivery": {
+            "pace": "medium",
+            "volume": "normal",
+            "pause_after_ms": 500
+          }
+        },
+        {
+          "t": 40,
+          "event_type": "line",
+          "speaker_id": "spk_jonah",
+          "text": "Because the key chose you.",
+          "emotion": "serious",
+          "delivery": {
+            "pace": "medium",
+            "volume": "normal",
+            "pause_after_ms": 500
+          }
+        },
+        {
+          "t": 45,
+          "event_type": "sfx",
+          "speaker_id": "",
+          "text": "",
+          "emotion": "",
+          "sfx": {
+            "name": "door slam",
+            "description": "A door slams somewhere in the station.",
+            "suggested_asset": "door_slam.mp3"
+          }
+        },
+        {
+          "t": 50,
+          "event_type": "line",
+          "speaker_id": "spk_jonah",
+          "text": "They found us.",
+          "emotion": "fearful",
+          "delivery": {
+            "pace": "medium",
+            "volume": "normal",
+            "pause_after_ms": 500
+          }
+        },
+        {
+          "t": 55,
+          "event_type": "line",
+          "speaker_id": "spk_mira",
+          "text": "Who?",
+          "emotion": "fearful",
+          "delivery": {
+            "pace": "medium",
+            "volume": "normal",
+            "pause_after_ms": 500
+          }
+        },
+        {
+          "t": 60,
+          "event_type": "sfx",
+          "speaker_id": "",
+          "text": "",
+          "emotion": "",
+          "sfx": {
+            "name": "hum",
+            "description": "A low hum begins to roll toward them.",
+            "suggested_asset": "hum_sound.mp3"
+          }
+        },
+        {
+          "t": 65,
+          "event_type": "line",
+          "speaker_id": "spk_jonah",
+          "text": "When I say run, you run. Do you understand?",
+          "emotion": "serious",
+          "delivery": {
+            "pace": "medium",
+            "volume": "loud",
+            "pause_after_ms": 500
+          }
+        },
+        {
+          "t": 70,
+          "event_type": "line",
+          "speaker_id": "spk_mira",
+          "text": "Come with me!",
+          "emotion": "angry",
+          "delivery": {
+            "pace": "medium",
+            "volume": "normal",
+            "pause_after_ms": 500
+          }
+        },
+        {
+          "t": 75,
+          "event_type": "line",
+          "speaker_id": "spk_jonah",
+          "text": "I’ll slow you down.",
+          "emotion": "serious",
+          "delivery": {
+            "pace": "medium",
+            "volume": "normal",
+            "pause_after_ms": 500
+          }
+        },
+        {
+          "t": 80,
+          "event_type": "line",
+          "speaker_id": "spk_jonah",
+          "text": "Run!",
+          "emotion": "angry",
+          "delivery": {
+            "pace": "fast",
+            "volume": "loud",
+            "pause_after_ms": 500
+          }
+        },
+        {
+          "t": 85,
+          "event_type": "sfx",
+          "speaker_id": "",
+          "text": "",
+          "emotion": "",
+          "sfx": {
+            "name": "footsteps",
+            "description": "Mira runs up the stairs, footsteps echoing.",
+            "suggested_asset": "footsteps.mp3"
+          }
+        },
+        {
+          "t": 90,
+          "event_type": "line",
+          "speaker_id": "spk_narrator",
+          "text": "Mira burst through the entrance doors into the night air.",
+          "emotion": "neutral",
+          "delivery": {
+            "pace": "medium",
+            "volume": "normal",
+            "pause_after_ms": 500
+          }
+        },
+        {
+          "t": 95,
+          "event_type": "line",
+          "speaker_id": "spk_narrator",
+          "text": "She tightened her grip on the key and stepped into the streetlights, knowing she had crossed into a story that wouldn’t let her go.",
+          "emotion": "neutral",
+          "delivery": {
+            "pace": "medium",
+            "volume": "normal",
+            "pause_after_ms": 500
+          }
+        }
+      ]
+    }
+  ],
+  "rendering_notes": {
+    "mixing_guidance": [
+      "Balance the ambient sounds of rain with the dialogue.",
+      "Ensure the hum sound builds tension without overpowering the voices."
+    ],
+    "provider_assumptions": [
+      "The audience is familiar with the characters and setting.",
+      "The emotional tone should reflect the urgency of the scene."
+    ]
+  }
+}

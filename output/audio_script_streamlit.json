@@ -1,0 +1,16 @@
+{
+  "cast": [
+    "Narrator"
+  ],
+  "scenes": [
+    {
+      "scene_id": "scene_01",
+      "timeline": [
+        {
+          "speaker": "Narrator",
+          "text": "Hi, hello there."
+        }
+      ]
+    }
+  ]
+}

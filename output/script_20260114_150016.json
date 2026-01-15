@@ -1,0 +1,91 @@
+{
+  "cast": [
+    {
+      "name": "Narrator",
+      "emotion": "calm",
+      "delivery": "narrative"
+    },
+    {
+      "name": "Mira",
+      "emotion": "anxious",
+      "delivery": "thoughtful"
+    }
+  ],
+  "scenes": [
+    {
+      "scene_id": "scene_01",
+      "timeline": [
+        {
+          "time": "0:00",
+          "action": "Narrator describes the rain starting as a polite tapping.",
+          "SFX": "rain tapping"
+        },
+        {
+          "time": "0:05",
+          "action": "Narrator describes the rain turning into a steady drumming.",
+          "SFX": "rain drumming"
+        },
+        {
+          "time": "0:10",
+          "action": "Mira pulls her hood tighter.",
+          "SFX": "fabric rustling"
+        },
+        {
+          "time": "0:15",
+          "action": "Mira checks the time on her phone.",
+          "SFX": "phone beep"
+        },
+        {
+          "time": "0:20",
+          "action": "Narrator mentions the time and Mira's thoughts about Platform Nine.",
+          "SFX": "distant clock ticking"
+        },
+        {
+          "time": "0:25",
+          "action": "Narrator describes the old clock ticking confidently.",
+          "SFX": "clock ticking"
+        },
+        {
+          "time": "0:30",
+          "action": "Narrator describes the entrance doors sighing open and shut.",
+          "SFX": "doors creaking"
+        },
+        {
+          "time": "0:35",
+          "action": "Mira steps inside the station.",
+          "SFX": "footsteps on concrete"
+        },
+        {
+          "time": "0:40",
+          "action": "Narrator describes the warmth and smell of the station.",
+          "SFX": "ambient station sounds"
+        },
+        {
+          "time": "0:45",
+          "action": "A cleaning robot rolls past Mira.",
+          "SFX": "robot wheels rolling"
+        },
+        {
+          "time": "0:50",
+          "action": "Cleaning robot chirps an apologetic beep.",
+          "SFX": "robot beep"
+        },
+        {
+          "time": "0:55",
+          "action": "Mira follows the signs past kiosks and benches.",
+          "SFX": "shuffling feet"
+        },
+        {
+          "time": "1:00",
+          "action": "Narrator describes the benches and their secrets.",
+          "SFX": "whispers of secrets"
+        },
+        {
+          "time": "1:05",
+          "action": "A public announcement crackles and dies mid-sentence.",
+          "SFX": "static crackle"
+        }
+      ]
+    }
+  ]
+}
